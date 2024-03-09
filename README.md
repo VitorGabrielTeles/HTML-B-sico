@@ -1,2 +1,2 @@
-# HTML-B-sico
+# HTML-Basico
 Arquivos iniciais programação web
